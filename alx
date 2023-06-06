@@ -1,2 +1,2 @@
-sed -i 's/echo "ALX"/echo "ALX School"/' bash/alx
+sed -i 's/echo "ALX School is so cool!"/echo "ALX School"/' bash/alx
 
