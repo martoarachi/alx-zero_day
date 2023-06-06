@@ -1,0 +1,2 @@
+sed -i 's/echo "School"/echo "The school is open!"/' bash/school
+
