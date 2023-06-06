@@ -1,0 +1,3 @@
+echo '#!/bin/bash' > bash/school
+echo 'echo "School"' >> bash/school
+
